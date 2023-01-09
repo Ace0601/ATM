@@ -1,3 +1,4 @@
 # ATM Machine
 
-Console-based class activity during first year college. 
+Console-based class examination during first year college. 
+Created using mobile phone.
