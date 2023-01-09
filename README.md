@@ -1,3 +1,3 @@
 # ATM Machine
 
-Class activity during first year college. 
+Console-based class activity during first year college. 
